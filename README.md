@@ -1,6 +1,6 @@
 ### Olá, meu nome é Milena, sou desenvolvedora back-end👋
 
-- 🔭 Estou trabalhando com desenvolvimento Java 
+- 🔭 Estou trabalhando com desenvolvimento Java
 - 🌱 Atualmente estou estudando Java, Spring framework e outras ferramentas.
 - 👜  Em busca de CLT.
 - 📖 Sempre em busca de novos conhecimentos.
